@@ -1,0 +1,21 @@
+[[source]]
+name = "qh"
+url = "https://pypi.tuna.tsinghua.edu.cn/simple/"
+verify_ssl = true
+
+[dev-packages]
+
+[packages]
+scrapy = "*"
+json = "*"
+numpy = "*"
+nltk = "*"
+html2text = "*"
+pymysql = "*"
+configparser = "*"
+
+[requires]
+python_version = "3.6"
+
+[pipenv]
+allow_prereleases = true
