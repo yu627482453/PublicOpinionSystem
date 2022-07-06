@@ -12,7 +12,7 @@ hyperlink==19.0.0
 idna==2.8
 incremental==17.5.0
 lock==2018.3.25.2110
-lxml==4.4.2
+lxml==4.9.1
 nltk==3.4.5
 numpy==1.18.0
 parsel==1.5.2
